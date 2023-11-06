@@ -15,7 +15,7 @@ struct SplashView: View {
      
         Image("SplashImage")
             .resizable()
-           // .scaledToFill()
+            .scaledToFill()
             .edgesIgnoringSafeArea(.all)
             
             
