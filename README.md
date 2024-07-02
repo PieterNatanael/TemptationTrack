@@ -2,7 +2,7 @@
 
 Track milestones, monitor progress, and stay motivated on your journey. TemptationTrack: Your tool for positive change
 
-If you have any questions or concerns about our privacy policy, please contact us at pieternatanael@icloud.com.
+If you have any questions or concerns about our app or privacy policy, please contact us at pieternatanael@icloud.com.
 
 PRIVACY POLICY
 Privacy Policy for TemptationTrack
