@@ -329,6 +329,8 @@ struct ShowExplainView: View {
                             }}
                     Spacer()
                 }
+                
+                
 
                Button("Close") {
                    // Perform confirmation action
