@@ -331,6 +331,7 @@ struct ShowExplainView: View {
                 }
                 
                 
+                
 
                Button("Close") {
                    // Perform confirmation action
